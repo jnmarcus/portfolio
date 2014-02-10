@@ -1,0 +1,48 @@
+body {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #000000;
+}
+
+h1 { 
+	font-family: 'Oswald', sans-serif; font-weight: 700; 
+	font-size: 50px;
+}
+
+.image-background {
+  background: url(http://res.cloudinary.com/dc8ynxibm/image/upload/e_trim:11/v1392056489/splashpage1_j6pdtp.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+  left: 0;
+  top: 0;
+}
+
+.all-text {
+	margin: 0 auto;
+	padding: 20px;
+	word-wrap: break-word; 
+}
+
+.margin-top {
+	/*margin-top: 10%;*/
+}
+
+.white-block {
+   background-color: rgba(255,255,255,0.5);
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   padding: 20px 0;
+   margin: 0 auto;
+   text-align: center;
+   /*width: 60%;*/
+ }
+
+ .center-all {
+ 	margin: 0 auto;
+ 	width: 60%;
+ 	margin-top: 10%;
+ } 
